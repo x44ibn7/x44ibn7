@@ -1,10 +1,10 @@
 <p align=”center”>
-![banner](https://user-images.githubusercontent.com/64099791/183385569-41dce7d2-41f5-434b-ab80-b4c35c8a6460.png)
+<img src="https://user-images.githubusercontent.com/64099791/183385569-41dce7d2-41f5-434b-ab80-b4c35c8a6460.png" alt="my banner">
 </p>
 
 # Hi there 🙋‍♂️
 I'm Tomasz. Taking my first steps into software manual testing. Connect with me here 👇🏻<br>
-<a href=”https://www.https://www.linkedin.com/in/tomasz-chaci%C5%84ski-6388b7247/"><img align=”left” src=”https://raw.githubusercontent.com/x44ibn7/x44ibn7/main/images/linkedin.png" alt=”Tomasz | LinkedIn” width=”21px”/></a>
+<a href="https://www.https://www.linkedin.com/in/tomasz-chaci%C5%84ski-6388b7247/"><img align="left" src="https://raw.githubusercontent.com/x44ibn7/x44ibn7/main/images/linkedin.png" alt="Tomasz|LinkedIn" width="21px"/></a>
 
 
 ### Tech stack:
