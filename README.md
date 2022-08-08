@@ -8,6 +8,7 @@ I'm Tomasz. Taking my first steps into software manual testing. Connect with me 
 - JIRA - *Intermediate* ☆☆
 - Trello - *Expert* ☆☆☆
 - SQL - *Novice* ☆
+- GitHub - *Novice* ☆
 - MS Office - *Expert* ☆☆☆a
 ### Language:
 - Polish - *Native* ☆☆☆
