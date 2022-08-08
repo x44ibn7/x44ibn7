@@ -8,19 +8,19 @@ I'm Tomasz. Taking my first steps into software manual testing. Connect with me 
 
 
 ### Tech stack:
-- TestLink - *Novice* ☆
-- JIRA - *Intermediate* ☆☆
-- Trello - *Expert* ☆☆☆
-- SQL - *Novice* ☆
-- GitHub - *Novice* ☆
-- MS Office - *Expert* ☆☆☆a
+- TestLink - *Novice* ★☆☆
+- JIRA - *Intermediate* ★★☆
+- Trello - *Expert* ★★★
+- SQL - *Novice* ★☆☆
+- GitHub - *Novice* ★☆☆
+- MS Office - *Expert* ★★★
 ### Language:
-- Polish - *Native* ☆☆☆
-- English - *Expert* ☆☆☆
+- Polish - *Native* ★★★
+- English - *Expert* ★★★
 ### Other skills:
-- CAD/CAM/CAE, ERP, PLM 👨‍💻 - *Intermediate* ☆☆
-- CNC Machining 👨‍🔧 - *Intermediate* ☆☆
-- Not your average coffee ☕️ - *Expert* ☆☆☆
+- CAD/CAM/CAE, ERP, PLM 👨‍💻 - *Intermediate* ★★☆
+- CNC Machining 👨‍🔧 - *Intermediate* ★★☆
+- Not your average coffee ☕️ - *Expert* ★★★
 ### Free time:
 - Semi-amateur cycling 🚴‍♂️🚵‍♂️
 - Learning new things 🤓
