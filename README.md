@@ -1,6 +1,7 @@
 <p align=”center”>
 <img src="https://user-images.githubusercontent.com/64099791/183385569-41dce7d2-41f5-434b-ab80-b4c35c8a6460.png" alt="my banner">
-   > Some clever quote should be displayed there 🤷‍♂️
+   
+> Some clever quote should be displayed there 🤷‍♂️
 </p>
 
 # Hi there 🙋‍♂️
