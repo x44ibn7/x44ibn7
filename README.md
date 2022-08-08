@@ -4,7 +4,7 @@ I'm Tomasz. Taking my first steps into software manual testing. Connect with me 
 
 
 ### Tech stack:
-- Manual Testing - *Novice* ☆
+- TestLink - *Novice* ☆
 - JIRA - *Intermediate* ☆☆
 - Trello - *Expert* ☆☆☆
 - SQL - *Novice* ☆
