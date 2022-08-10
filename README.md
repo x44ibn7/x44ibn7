@@ -11,6 +11,7 @@
 
 ### Tech stack:
 - TestLink - *Intermediate* ★★☆
+- Zephyr - *Novice* ★☆☆
 - JIRA - *Intermediate* ★★☆
 - Trello - *Expert* ★★★
 - SQL - *Novice* ★☆☆
