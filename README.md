@@ -10,7 +10,7 @@
 <br>
 
 ### Tech stack:
-- TestLink - *Novice* ★☆☆
+- TestLink - *Intermediate* ★★☆
 - JIRA - *Intermediate* ★★☆
 - Trello - *Expert* ★★★
 - SQL - *Novice* ★☆☆
