@@ -5,17 +5,12 @@
 
 I'm a passionate **Full Stack Developer** in my free time. Currently working on exciting projects with my friends at **[Syntra-Software](https://github.com/Syntra-Software)** 🎯
 
----
-
 ## 🎯 Current Focus
 
 - 🔨 Building scalable web applications
 - 🌐 Exploring cloud architecture patterns
 - 📚 Learning new technologies and frameworks
 - 🚀 Growing **Syntra-Software**
-
----
-
 
 ## 🏢 Organizations
 
@@ -27,15 +22,11 @@ I'm a passionate **Full Stack Developer** in my free time. Currently working on 
 
 **[Syntra-Software](https://github.com/Syntra-Software)** - Co-founded with my friend, we're building innovative software solutions and contributing to the open-source community 🚀
 
----
-
 ## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=x44ibn7&theme=react-dark&bg_color=0d1117&hide_border=true&point=A9FEF7&line=A9FEF7&color=c9d1d9" alt="Activity Graph"/>
 </div>
-
-
 
 ## 🤝 Let's Connect!
 
