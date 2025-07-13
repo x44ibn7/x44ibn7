@@ -10,7 +10,7 @@ I'm a passionate **Full Stack Developer** in my free time. Currently working on 
 <div align="center">
   <a href="https://www.linkedin.com/in/tomasz-c-6388b7247/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a></div>
 
 ## 🎯 Current Focus
 
