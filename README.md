@@ -3,7 +3,7 @@
 
 ## � About Me
 
-I'm a passionate **Full Stack Developer** in my free time. Currently working on exciting projects with my friends at **[Syntra-Software](https://github.com/Syntra-Software)** 🎯
+I'm a passionate **Full Stack Developer** in my free time. Currently working on exciting projects with my friends at **[Syntra-Software](https://github.com/Syntra-Software)**
 
 ## 🎯 Current Focus
 
