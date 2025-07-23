@@ -22,12 +22,12 @@ I'm a passionate **Full Stack Developer** in my free time. Currently working on 
 ## 🏢 Organizations
 
 <div align="left">
-  <a href="https://github.com/Syntra-Software">
-    <img src="https://img.shields.io/badge/Syntra--Software-Co--founder-blue?style=for-the-badge&logo=github&logoColor=white" alt="Syntra-Software"/>
+  <a href="https://github.com/Syntra-Solutions">
+    <img src="https://img.shields.io/badge/Syntra--Solutions-Co--founder-blue?style=for-the-badge&logo=github&logoColor=white" alt="Syntra-Solutions"/>
   </a>
 </div>
 
-**[Syntra-Software](https://github.com/Syntra-Software)** - Co-founded with my friend, we're building innovative software solutions and contributing to the open-source community 🚀
+**[Syntra-Solutions](https://github.com/Syntra-Solutions)** - Co-founded with my friend, we're building innovative software solutions and contributing to the open-source community 🚀
 
 ## 📈 Activity Graph
 
