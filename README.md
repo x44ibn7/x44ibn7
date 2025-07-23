@@ -3,7 +3,7 @@
 
 ## � About Me
 
-I'm a passionate **Full Stack Developer** in my free time. Currently working on exciting projects with my friends at **[Syntra-Software](https://github.com/Syntra-Software)**
+I'm a passionate **Full Stack Developer** in my free time. Currently working on exciting projects with my friends at **[Syntra-Solutions](https://github.com/Syntra-Solutions)**
 
 ## 🤝 Let's Connect!
 
@@ -17,7 +17,7 @@ I'm a passionate **Full Stack Developer** in my free time. Currently working on 
 - 🔨 Building scalable web applications
 - 🌐 Exploring cloud architecture patterns
 - 📚 Learning new technologies and frameworks
-- 🚀 Growing **Syntra-Software**
+- 🚀 Growing **Syntra-Solutions**
 
 ## 🏢 Organizations
 
